@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>www.newk2022.icar.cnr.it</loc>
+	<lastmod>2024-01-05</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/GECCO%202024%20LOGO%20resized.png</image:loc>
+	<image:title>gecco2021_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/GECCO%202024%20LOGO%20resized.webp</image:loc>
+	<image:title>gecco2021_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/logo-sigevo_new-332.jpg</image:loc>
+	<image:title>logo sigevo_new-332</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/logo-sigevo_new-332.webp</image:loc>
+	<image:title>logo sigevo_new-332</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/acm_logo.gif</image:loc>
+	<image:title>acm_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>www.newk2022.icar.cnr.it/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
