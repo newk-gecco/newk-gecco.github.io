@@ -805,6 +805,9 @@ h1,h2,h3,h4,h5,h6{
 .tc-6728{
 	color:var(--swatch-var-6728)!important;
 }
+.tc-7376{
+	color:var(--swatch-var-7376)!important;
+}
 
 /* Button colour styles */
 
@@ -830,17 +833,9 @@ h1,h2,h3,h4,h5,h6{
 
 .bg-GECCO-202025-20YEAR-20small{
 	background-image:url("img/GECCO%202025%20YEAR%20small.png");
-	background-image: -webkit-image-set(url("img/GECCO%202025%20YEAR%20small.webp") 1x,
-url("img/GECCO%202025%20YEAR%20small.webp") 2x);background-image: image-set(url("img/GECCO%202025%20YEAR%20small.png") 1x,
-url("img/GECCO%202025%20YEAR%20small.png") 2x,url("img/GECCO%202025%20YEAR%20small.webp") 1x,
-url("img/GECCO%202025%20YEAR%20small.webp") 2x);
 }
 .bg-malaga-2{
 	background-image:url("img/malaga-2.jpg");
-	background-image: -webkit-image-set(url("img/malaga-2.webp") 1x,
-url("img/malaga-2.webp") 2x);background-image: image-set(url("img/malaga-2.jpg") 1x,
-url("img/malaga-2.jpg") 2x,url("img/malaga-2.webp") 1x,
-url("img/malaga-2.webp") 2x);
 }
 
 
