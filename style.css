@@ -686,6 +686,8 @@ h1,h2,h3,h4,h5,h6{
 }
 .p-bloc-12-style{
 	font-size:16px;
+	font-family:"Open Sans";
+	font-weight:600;
 }
 .h3-style{
 	font-size:40px;
@@ -760,6 +762,22 @@ h1,h2,h3,h4,h5,h6{
 	text-transform:none;
 	text-decoration:none;
 	font-size:20px;
+}
+.p-contacts-style{
+	font-family:"Open Sans";
+	font-weight:600;
+}
+.p-30-style{
+	font-family:"Open Sans";
+	font-weight:600;
+}
+.p-28-style{
+	font-family:"Open Sans";
+	font-weight:600;
+}
+.p-27-style{
+	font-family:"Open Sans";
+	font-weight:600;
 }
 
 /* = Colour
