@@ -414,6 +414,9 @@ button{
 
 /* = Text & Icon Styles
 -------------------------------------------------------------- */
+.sm-shadow{
+	text-shadow:0 1px 2px rgba(0,0,0,.3);
+}
 .pressed-t{
 	text-shadow:0 1px 0 #FFF;
 }
@@ -711,10 +714,10 @@ h1,h2,h3,h4,h5,h6{
 	width:122px;
 }
 .bloc-divider-t-fill{
-	fill:#814BD6;
+	fill:var(--swatch-var-3191);
 }
 .bloc-divider-b-fill{
-	fill:#814BD6;
+	fill:var(--swatch-var-3191);
 }
 .bloc-divider-t-contacts-fill{
 	fill:#814BD6;
@@ -779,6 +782,18 @@ h1,h2,h3,h4,h5,h6{
 	font-family:"Open Sans";
 	font-weight:600;
 }
+.bloc-divider-t-0-fill{
+	fill:var(--swatch-var-3191);
+}
+.h3-5-style{
+	width:100%;
+	font-family:"Open Sans";
+	font-weight:800;
+}
+.p-bloc-6-style{
+	font-family:"Open Sans";
+	font-weight:800;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -794,11 +809,11 @@ h1,h2,h3,h4,h5,h6{
 	
 	--swatch-var-6691:rgba(45,39,47,1.00);
 	
-	--swatch-var-3191:#814BD6;
+	--swatch-var-3191:rgba(129,75,214,1.00);
 	
 	--swatch-var-4494:rgba(255,255,255,0.50);
 	
-	--swatch-var-4364:#FF9200;
+	--swatch-var-4364:rgba(255,147,0,1.00);
 	
 }
 
